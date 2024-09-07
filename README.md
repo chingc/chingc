@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+    <h3>Hi, I'm <a href="https://chingc.github.io/resume/">Ching</a> 👋</h3>
+    <p>✨ Welcome to my GitHub repo! ✨</p>
+</div>
+
+- [demo-github-actions](https://github.com/chingc?tab=repositories&q=demo-github-actions) - Small demos of what can be done in GitHub Actions
+- [quickstart-nix](https://github.com/chingc/quickstart-nix) - A short guide to using Nix
+- [Vagrantfiles](https://github.com/chingc/Vagrantfiles) - Templates to create virtual machines with Vagrant
+- [DJRivals](https://github.com/chingc/DJRivals) - Score tracker for a long dead game called DJMAX Technika 3 (see it [here](http://chingc.github.io/DJRivals/))
 
 <!--
 **chingc/chingc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
