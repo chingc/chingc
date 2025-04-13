@@ -20,7 +20,7 @@ Here are some languages, platforms, and other tools I work with on a regular bas
 - Tools & Platforms: Amazon Web Services, Docker, GitHub Actions, git, PostgreSQL, pytest, pytest-cov, pytest-xdist, Redis, unittest
 - Operating Systems: macOS, Linux, Windows
 
-## HISTORY
+## EXPERIENCE
 
 ### Software Engineer II @ BentoBox
 
@@ -34,6 +34,7 @@ New York City, NY
 - Addressed tech debt by managing project dependencies and refactoring old code.
 - Addressed security concerns by keeping systems and software updated.
 - Improved developer quality of life by building developer requested features and tools.
+- Monitored logs and services to proactively avoid or reduce potential problems.
 
 _BentoBox helps restaurants build websites, online ordering, gift cards, and more. All in one place._
 
