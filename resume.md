@@ -1,6 +1,6 @@
 # Ching Chow
 
-[![GitHub](https://img.shields.io/badge/github--lightgrey.svg)](https://github.com/chingc) [![LinkedIn](https://img.shields.io/badge/linkedin--blue.svg)](https://www.linkedin.com/in/chingc) [![email](https://img.shields.io/badge/email--brightgreen.svg)](mailto:chingc@fastmail.com?subject=About%20your%20resume%20on%20GitHub)
+[![GitHub](https://img.shields.io/badge/github--lightgrey.svg)](https://github.com/chingc) [![LinkedIn](https://img.shields.io/badge/linkedin--blue.svg)](https://www.linkedin.com/in/chingc) [![email](https://img.shields.io/badge/email--brightgreen.svg)](mailto:ching64@proton.me?subject=About%20your%20resume%20on%20GitHub)
 
 Hi! This is my full resume.
 
